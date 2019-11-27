@@ -1,0 +1,6 @@
+C:\Users\LAB2-OGRT\source\repos\Oylesine\StringGenericSwapMethod\bin\Debug\StringGenericSwapMethod.exe.config
+C:\Users\LAB2-OGRT\source\repos\Oylesine\StringGenericSwapMethod\bin\Debug\StringGenericSwapMethod.exe
+C:\Users\LAB2-OGRT\source\repos\Oylesine\StringGenericSwapMethod\bin\Debug\StringGenericSwapMethod.pdb
+C:\Users\LAB2-OGRT\source\repos\Oylesine\StringGenericSwapMethod\obj\Debug\StringGenericSwapMethod.csproj.CoreCompileInputs.cache
+C:\Users\LAB2-OGRT\source\repos\Oylesine\StringGenericSwapMethod\obj\Debug\StringGenericSwapMethod.exe
+C:\Users\LAB2-OGRT\source\repos\Oylesine\StringGenericSwapMethod\obj\Debug\StringGenericSwapMethod.pdb

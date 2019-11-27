@@ -1,0 +1,6 @@
+C:\Users\LAB2-OGRT\source\repos\Oylesine\GenericMethod\bin\Debug\GenericMethod.exe.config
+C:\Users\LAB2-OGRT\source\repos\Oylesine\GenericMethod\bin\Debug\GenericMethod.exe
+C:\Users\LAB2-OGRT\source\repos\Oylesine\GenericMethod\bin\Debug\GenericMethod.pdb
+C:\Users\LAB2-OGRT\source\repos\Oylesine\GenericMethod\obj\Debug\GenericMethod.csproj.CoreCompileInputs.cache
+C:\Users\LAB2-OGRT\source\repos\Oylesine\GenericMethod\obj\Debug\GenericMethod.exe
+C:\Users\LAB2-OGRT\source\repos\Oylesine\GenericMethod\obj\Debug\GenericMethod.pdb

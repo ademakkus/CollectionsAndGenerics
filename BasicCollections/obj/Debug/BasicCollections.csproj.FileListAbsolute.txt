@@ -1,0 +1,7 @@
+C:\Users\LAB2-OGRT\source\repos\Oylesine\BasicCollections\bin\Debug\BasicCollections.exe.config
+C:\Users\LAB2-OGRT\source\repos\Oylesine\BasicCollections\bin\Debug\BasicCollections.exe
+C:\Users\LAB2-OGRT\source\repos\Oylesine\BasicCollections\bin\Debug\BasicCollections.pdb
+C:\Users\LAB2-OGRT\source\repos\Oylesine\BasicCollections\obj\Debug\BasicCollections.csprojResolveAssemblyReference.cache
+C:\Users\LAB2-OGRT\source\repos\Oylesine\BasicCollections\obj\Debug\BasicCollections.csproj.CoreCompileInputs.cache
+C:\Users\LAB2-OGRT\source\repos\Oylesine\BasicCollections\obj\Debug\BasicCollections.exe
+C:\Users\LAB2-OGRT\source\repos\Oylesine\BasicCollections\obj\Debug\BasicCollections.pdb

@@ -1,0 +1,6 @@
+C:\Users\LAB2-OGRT\source\repos\Oylesine\Stack_\obj\Debug\Stack_.csproj.CoreCompileInputs.cache
+C:\Users\LAB2-OGRT\source\repos\Oylesine\Stack_\bin\Debug\Stack_.exe.config
+C:\Users\LAB2-OGRT\source\repos\Oylesine\Stack_\bin\Debug\Stack_.exe
+C:\Users\LAB2-OGRT\source\repos\Oylesine\Stack_\bin\Debug\Stack_.pdb
+C:\Users\LAB2-OGRT\source\repos\Oylesine\Stack_\obj\Debug\Stack_.exe
+C:\Users\LAB2-OGRT\source\repos\Oylesine\Stack_\obj\Debug\Stack_.pdb
